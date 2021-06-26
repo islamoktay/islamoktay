@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-
--  🌱  I’m currently learning Java, Python, SQL, Git&GitHub, HTML, CSS, JS,...
--  👯  Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
+-  🏆  I've learned Dart Programming Language, SQL, GIT.
+-  🌱  I’m currently learning Flutter SDK, Cs50x by Harvard, ...
+-  👯  Enthusiastic Mobile App Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  ✨  A lifelong learner. 
 -  👨‍💻  Motivated to learn, grow and excel in IT industry.
