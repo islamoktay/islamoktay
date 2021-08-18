@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
--  🏆  I've learned Dart Programming Language, SQL, GIT.
--  🌱  I’m currently learning Flutter SDK, Cs50x by Harvard, ...
+-  🏆  I've learned Flutter SDK, Dart Programming Language, SQL, GIT.
+-  🌱  I’m currently learning Cs50x by Harvard, ...
 -  👯  Enthusiastic Mobile App Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  ✨  A lifelong learner. 
