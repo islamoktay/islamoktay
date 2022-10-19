@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## (At first I need to tell you, most of my repos are private. Because of the NDA issues. Please feel free to contact for further look.)
+#### (At first I need to tell you, most of my repos are private. Because of the NDA issues. Please feel free to contact for further look.)
 
 -  🏆  I've learned Flutter SDK, Dart Programming Language, SQL, GIT.
 -  🌱  I took courses of Cs50x Introduction to Computer Science by Harvard...
