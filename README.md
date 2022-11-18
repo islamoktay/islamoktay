@@ -1,13 +1,10 @@
+# (At first I need to tell you, most of my repos are private. Because of the NDA issues. Please feel free to contact for further look.)
+
 ### Hi there 👋
 
-#### (At first I need to tell you, most of my repos are private. Because of the NDA issues. Please feel free to contact for further look.)
-
--  🏆  I've learned Flutter SDK, Dart Programming Language, SQL, GIT.
--  🌱  I took courses of Cs50x Introduction to Computer Science by Harvard...
+-  🏆  Flutter SDK, Dart Programming Language, SQL, GIT.
 -  👯  Enthusiastic Mobile App Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
--  ✨  A lifelong learner. 
--  👨‍💻  Motivated to learn, grow and excel in IT industry.
 -  💬 Please feel free to reach out if you have any questions or suggestions.
 -  😄 You can show some   ❤️  &nbsp; by starring some of the repositories
 -  📫 How to reach me;<br>
